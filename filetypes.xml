@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="chords" type="PLAIN_TEXT" />
+      <mapping pattern=".jfx-rippler" type="PLAIN_TEXT" />
+      <mapping pattern="scales" type="PLAIN_TEXT" />
+      <mapping pattern="export" type="PLAIN_TEXT" />
+      <mapping ext="lm" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

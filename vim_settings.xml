@@ -1,0 +1,2672 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/user_debts.java" timestamp="1538573156271">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/FIX/CSVData.java" timestamp="1531478767595">
+        <mark key="[" line="45" column="72" />
+        <mark key="]" line="46" column="29" />
+        <mark key="^" line="46" column="29" />
+        <mark key="." line="46" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/EditKorisnikController.java" timestamp="1541589992511">
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="^" line="192" column="30" />
+        <mark key="." line="197" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Dtv/CASEdit.fxml" timestamp="1536841546945">
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="17" column="59" />
+        <mark key="^" line="17" column="59" />
+        <mark key="." line="17" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/Server/Clients.java" timestamp="1549556962352">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/NovServis.fxml" timestamp="1525950050158">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/CZARServer.java" timestamp="1549630444580">
+        <mark key="[" line="78" column="49" />
+        <mark key="]" line="78" column="69" />
+        <mark key="." line="78" column="69" />
+        <mark key="^" line="78" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/TEST/progressBarTest.java" timestamp="1522842153001">
+        <mark key="[" line="34" column="60" />
+        <mark key="]" line="34" column="59" />
+        <mark key="." line="34" column="59" />
+        <mark key="^" line="34" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/RACUNI/Zaduzenja.java" timestamp="1531326167189">
+        <mark key="[" line="36" column="37" />
+        <mark key="]" line="36" column="37" />
+        <mark key="." line="36" column="37" />
+        <mark key="^" line="36" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/test/java/com/psyhozoom/dev/czar/server/ServerStreamer/ServerStream.java" timestamp="1549557285649">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/.gitignore" timestamp="1525958199847">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="13" column="12" />
+        <mark key="^" line="13" column="12" />
+        <mark key="." line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/stt/src/main/java/com/psyhozoom/stt/Classes/GoogleSpeech.java" timestamp="1554988052647">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/resources/log4j.properties" timestamp="1549642479696">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="33" />
+        <mark key="^" line="13" column="33" />
+        <mark key="." line="13" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Administration/Search/UserOnlieSearch.java" timestamp="1529137875246">
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/SQL/userDebts.java" timestamp="1531295485144">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="28" column="21" />
+        <mark key="^" line="28" column="21" />
+        <mark key="." line="28" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/stt/src/main/java/com/psyhozoom/stt/Classes/AudioRecorder.java" timestamp="1554989571366">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhoozoom/epgGrabber/sample.fxml" timestamp="1551390208051">
+        <mark key="[" line="6" column="248" />
+        <mark key="]" line="6" column="267" />
+        <mark key="^" line="6" column="267" />
+        <mark key="." line="6" column="267" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/RACUNI/RacunFaktura.java" timestamp="1523875793762">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/xlsDiff/src/main/java/com/psyhozoom/xlsDiff/Main.java" timestamp="1551457869054">
+        <mark key="[" line="7" column="45" />
+        <mark key="]" line="7" column="45" />
+        <mark key="." line="7" column="45" />
+        <mark key="^" line="7" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/chordhelper/build.gradle" timestamp="1557319317303">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Administration/Search/UserOnlineSearch.fxml" timestamp="1529137883454">
+        <mark key="[" line="13" column="91" />
+        <mark key="]" line="13" column="95" />
+        <mark key="^" line="13" column="95" />
+        <mark key="." line="13" column="95" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/chordhelper/src/test/resources/scales" timestamp="1555408691029">
+        <mark key="[" line="46" column="25" />
+        <mark key="]" line="46" column="24" />
+        <mark key="." line="46" column="24" />
+        <mark key="^" line="46" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/epgconverter/src/main/java/com/psyhozoom/epgconverter/EpgConverter.java" timestamp="1561030525048">
+        <mark key="[" line="24" column="49" />
+        <mark key="]" line="24" column="48" />
+        <mark key="." line="24" column="48" />
+        <mark key="^" line="24" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/Server.java" timestamp="1547671918726">
+        <mark key="[" line="177" column="24" />
+        <mark key="]" line="177" column="23" />
+        <mark key="^" line="177" column="23" />
+        <mark key="." line="177" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/UgovoriPreview.fxml" timestamp="1525950381111">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/UsersOnline.java" timestamp="1534584333049">
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="36" column="28" />
+        <mark key="^" line="36" column="28" />
+        <mark key="." line="36" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/Server/Server.java" timestamp="1549557223881">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="51" />
+        <mark key="." line="0" column="51" />
+        <mark key="^" line="0" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/jersey/JerseyApiServer.java" timestamp="1549641643994">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Mape/MainMapContrller.java" timestamp="1527076581637">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/OperaterController.java" timestamp="1529068317642">
+        <mark key="[" line="222" column="51" />
+        <mark key="]" line="222" column="36" />
+        <mark key="." line="222" column="36" />
+        <mark key="^" line="222" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/stt/src/main/java/com/psyhozoom/stt/main.java" timestamp="1554965755975">
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/RADIUS/RadReplyUsers.java" timestamp="1529656281580">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/Server/ServerWorker.java" timestamp="1549630491998">
+        <mark key="[" line="34" column="68" />
+        <mark key="]" line="34" column="85" />
+        <mark key="^" line="34" column="85" />
+        <mark key="." line="34" column="85" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/jersey/AuthenticationService.java" timestamp="1549640840643">
+        <mark key="[" line="19" column="70" />
+        <mark key="]" line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/Users/Operaters.java" timestamp="1549548063992">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="41" />
+        <mark key="^" line="0" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/ttsfr/src/main/java/com/psyhozoom/tts/Main.java" timestamp="1553764603757">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="27" column="23" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/chordhelper/src/main/java/com/illposed/osc/ConsoleEchoServer.java" timestamp="1555675115963">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Stream/StreamReader.java" timestamp="1549891265960">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/IZVESTAJI/Izvestaji.java" timestamp="1551273783698">
+        <mark key="[" line="37" column="56" />
+        <mark key="]" line="37" column="52" />
+        <mark key="." line="37" column="52" />
+        <mark key="^" line="37" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/Worker.java" timestamp="1560510117049">
+        <mark key="'" line="150" column="82" />
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="60" column="37" />
+        <mark key="." line="60" column="37" />
+        <mark key="^" line="60" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/IzvestajPDVObracun.java" timestamp="1531395660686">
+        <mark key="[" line="228" column="32" />
+        <mark key="]" line="229" column="35" />
+        <mark key="^" line="229" column="35" />
+        <mark key="." line="229" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhozoom/epgGrabber/DataBase.java" timestamp="1559207646022">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="38" column="5" />
+        <mark key="." line="38" column="5" />
+        <mark key="^" line="38" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/jersey/JerseyApiClient.java" timestamp="1549641589592">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="12" />
+        <mark key="^" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/ttsfr/build.gradle" timestamp="1553763069252">
+        <mark key="[" line="48" column="1" />
+        <mark key="]" line="42" column="36" />
+        <mark key="." line="42" column="36" />
+        <mark key="^" line="42" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/KorisnikStampaSearch.java" timestamp="1555487688425">
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Operateri.fxml" timestamp="1525950117378">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="134" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Users/Users.java" timestamp="1558007478812">
+        <mark key="[" line="173" column="13" />
+        <mark key="]" line="173" column="12" />
+        <mark key="." line="173" column="12" />
+        <mark key="^" line="173" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/oscfootman/src/main/resources/MainWindow.fxml" timestamp="1557400282712">
+        <mark key="[" line="27" column="60" />
+        <mark key="]" line="27" column="60" />
+        <mark key="^" line="27" column="90" />
+        <mark key="." line="27" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/USERS/UserFunc.java" timestamp="1555502458115">
+        <mark key="[" line="204" column="87" />
+        <mark key="]" line="204" column="131" />
+        <mark key="." line="204" column="131" />
+        <mark key="^" line="204" column="131" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/MIKROTIK_API/MTOnlinePPPoEClients.java" timestamp="1533291836377">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="30" column="15" />
+        <mark key="." line="30" column="15" />
+        <mark key="^" line="30" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Administration/Groups/groupEdit.fxml" timestamp="1543490104700">
+        <mark key="[" line="12" column="150" />
+        <mark key="]" line="12" column="186" />
+        <mark key="^" line="12" column="186" />
+        <mark key="." line="12" column="186" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerWorker.java" timestamp="1560510647781">
+        <mark key="[" line="45" column="80" />
+        <mark key="]" line="46" column="59" />
+        <mark key="." line="46" column="59" />
+        <mark key="^" line="46" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Administration/Administration.fxml" timestamp="1547640354152">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="2" />
+        <mark key="^" line="29" column="69" />
+        <mark key="." line="14" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/KorisniciController.java" timestamp="1555503635497">
+        <mark key="[" line="355" column="51" />
+        <mark key="]" line="357" column="51" />
+        <mark key="." line="357" column="51" />
+        <mark key="^" line="357" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/GroupOpers.java" timestamp="1543576317024">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/jersey/ApiServer.java" timestamp="1549641636602">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ZADUZENJA/ZaduziCustom.java" timestamp="1554883348184">
+        <mark key="[" line="135" column="15" />
+        <mark key="]" line="135" column="15" />
+        <mark key="." line="135" column="15" />
+        <mark key="^" line="135" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/LOCATION/LocationsClients.java" timestamp="1527574652348">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="67" column="22" />
+        <mark key="." line="97" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/VOIPRacuni/build.gradle" timestamp="1547040842243">
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="23" column="38" />
+        <mark key="." line="23" column="38" />
+        <mark key="^" line="23" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Messages/Messages.java" timestamp="1535536535552">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/DigitalniTVPaket.java" timestamp="1536926557023">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="36" />
+        <mark key="^" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/ServicesUser.java" timestamp="1539040131192">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="591" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Administration/Search/UserRadiusSerach.fxml" timestamp="1529138022314">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="93" />
+        <mark key="^" line="10" column="93" />
+        <mark key="." line="10" column="93" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhozoom/epgGrabber/EPGGrabber.java" timestamp="1561029187327">
+        <mark key="'" line="36" column="57" />
+        <mark key="[" line="280" column="38" />
+        <mark key="]" line="280" column="86" />
+        <mark key="." line="280" column="86" />
+        <mark key="^" line="280" column="86" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/OstaleUsluge.java" timestamp="1519994710691">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/Ugovori/Ugovori.java" timestamp="1550500073764">
+        <mark key="[" line="45" column="46" />
+        <mark key="]" line="45" column="46" />
+        <mark key="^" line="27" column="49" />
+        <mark key="." line="45" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/RacunFakturaSettings.java" timestamp="1526040823060">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/DigitalniTVPaketEditController.java" timestamp="1536926601778">
+        <mark key="[" line="153" column="49" />
+        <mark key="]" line="154" column="60" />
+        <mark key="^" line="154" column="60" />
+        <mark key="." line="154" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/FiksnaTelefonijaPaketEdit.fxml" timestamp="1525947591008">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="59" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/CZARServer.java" timestamp="1557921088259">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/VOIPRacuni/src/main/java/net/yuvideo/voipRacuni/Controllers/MainWin.java" timestamp="1547033914353">
+        <mark key="[" line="359" column="63" />
+        <mark key="]" line="360" column="48" />
+        <mark key="^" line="360" column="48" />
+        <mark key="." line="360" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Izevestaji/Izvestaj.java" timestamp="1551267038373">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/Grafika8/src/grafika/main.java" timestamp="1555506499295">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Korisnici.fxml" timestamp="1555501657083">
+        <mark key="[" line="34" column="85" />
+        <mark key="]" line="36" column="64" />
+        <mark key="^" line="36" column="64" />
+        <mark key="." line="36" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/java/com/psyhozoom/dev/czar.server/Server/Commands.java" timestamp="1549889322019">
+        <mark key="[" line="105" column="24" />
+        <mark key="]" line="105" column="24" />
+        <mark key="." line="105" column="24" />
+        <mark key="^" line="105" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/KorisnikUgovoriController.java" timestamp="1550499997058">
+        <mark key="[" line="290" column="51" />
+        <mark key="]" line="291" column="16" />
+        <mark key="^" line="291" column="16" />
+        <mark key="." line="291" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/test/java/EPG_GRABBER/AppTest.java" timestamp="1551704222572">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/psyIPTVServer/src/com/psyhozoom/dev/psyiptvserver/Users/Operaters.java" timestamp="1549546105236">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Administration/TrafficReport/BwMonitorData.java" timestamp="1534840348151">
+        <mark key="[" line="33" column="3" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="22" column="13" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/KorisnikUplateUnapredController.java" timestamp="1538642221869">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="62" column="33" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/UplatePregledController.java" timestamp="1519999832921">
+        <mark key="[" line="61" column="64" />
+        <mark key="]" line="62" column="57" />
+        <mark key="^" line="62" column="57" />
+        <mark key="." line="62" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Administration/WiFi/WifiFinder.java" timestamp="1534152547916">
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="22" column="1" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/jersey/JerseyServer.java" timestamp="1549641579798">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+      </file>
+      <file name="/mnt/backup/zoom/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/KorisnikPodaciController.java" timestamp="1546512643496">
+        <mark key="[" line="254" column="9" />
+        <mark key="]" line="254" column="8" />
+        <mark key="^" line="254" column="8" />
+        <mark key="." line="254" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ARTIKLI/ArtikliFunctions.java" timestamp="1553685047745">
+        <mark key="[" line="724" column="25" />
+        <mark key="]" line="727" column="7" />
+        <mark key="." line="727" column="7" />
+        <mark key="^" line="727" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhozoom/epgGrabber/Main.java" timestamp="1559207924983">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/NetworkDevices.java" timestamp="1528716666182">
+        <mark key="[" line="53" column="53" />
+        <mark key="]" line="54" column="61" />
+        <mark key="^" line="54" column="61" />
+        <mark key="." line="54" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/stt/src/main/java/com/psyhozoom/stt/Classes/GooleSpeech.java" timestamp="1554986091643">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/FiksnaMesecniObracuni.java" timestamp="1539003953434">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="55" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/java/com/psyhozoom/dev/czar.server/CZARServer.java" timestamp="1549889286111">
+        <mark key="[" line="65" column="39" />
+        <mark key="]" line="65" column="45" />
+        <mark key="^" line="65" column="45" />
+        <mark key="." line="65" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Magacin.java" timestamp="1553682448143">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/KorisniUplate.fxml" timestamp="1538973422769">
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="36" column="38" />
+        <mark key="." line="36" column="38" />
+        <mark key="^" line="36" column="38" />
+      </file>
+      <file name="/mnt/backup/zoom/Documents/Develop/jVirman-Client/src/main/java/com/psyhozoom/virman/Client/Classes/ESCPrinter.java" timestamp="1545835085504">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="274" column="22" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/USERS/UserOnline.java" timestamp="1528720889846">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/epgconverter/EPG.xml" timestamp="1561030660524">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+        <mark key="^" line="27186" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/IPTVPaketiController.java" timestamp="1529134758935">
+        <mark key="[" line="241" column="9" />
+        <mark key="]" line="241" column="9" />
+        <mark key="." line="241" column="9" />
+        <mark key="^" line="162" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/ttsfr/src/main/java/com/psyhozoom/tts/SpeechToTextEngine.java" timestamp="1553849089184">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/VOIPRacuni/README.md" timestamp="1547029392556">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="43" />
+        <mark key="^" line="1" column="43" />
+        <mark key="." line="1" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/pdvObracun.java" timestamp="1531394607465">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="22" column="26" />
+        <mark key="^" line="22" column="26" />
+        <mark key="." line="22" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/AlertUser.java" timestamp="1547644328308">
+        <mark key="[" line="44" column="75" />
+        <mark key="]" line="55" column="31" />
+        <mark key="^" line="55" column="31" />
+        <mark key="." line="55" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/FIX/FIXFunctions.java" timestamp="1541428042933">
+        <mark key="[" line="293" column="0" />
+        <mark key="]" line="293" column="0" />
+        <mark key="^" line="260" column="62" />
+        <mark key="." line="293" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Administration/Devices.java" timestamp="1531914511789">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+        <mark key="^" line="124" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/Server/Commands.java" timestamp="1549558604978">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhozoom/epgGrabber/EPGChannelData.java" timestamp="1559563397133">
+        <mark key="[" line="21" column="3" />
+        <mark key="]" line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/SQL/UserDebts.java" timestamp="1531323628325">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/BOX/BOXEditController.java" timestamp="1538391277897">
+        <mark key="[" line="58" column="50" />
+        <mark key="]" line="58" column="44" />
+        <mark key="." line="58" column="44" />
+        <mark key="^" line="58" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/GROUP/GroupOper.java" timestamp="1544445437300">
+        <mark key="[" line="243" column="49" />
+        <mark key="]" line="243" column="50" />
+        <mark key="^" line="243" column="50" />
+        <mark key="." line="243" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Izvestaji/Izvestaj.fxml" timestamp="1551272861142">
+        <mark key="[" line="29" column="82" />
+        <mark key="]" line="29" column="82" />
+        <mark key="^" line="29" column="82" />
+        <mark key="." line="29" column="82" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/RACUNI/UserRacun.java" timestamp="1539121042000">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="273" column="26" />
+        <mark key="." line="151" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jVirman-Client/src/main/java/com/psyhozoom/virman/Client/Classes/Stampa.java" timestamp="1555929619404">
+        <mark key="[" line="40" column="35" />
+        <mark key="]" line="40" column="23" />
+        <mark key="." line="40" column="23" />
+        <mark key="^" line="40" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/UgovorStampaController.java" timestamp="1547632673748">
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="38" column="102" />
+        <mark key="." line="38" column="102" />
+        <mark key="^" line="38" column="102" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/OstaleUslugeEdit.fxml" timestamp="1525950224199">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Administration/Search/UserSearch.fxml" timestamp="1529324082715">
+        <mark key="[" line="12" column="91" />
+        <mark key="]" line="12" column="87" />
+        <mark key="^" line="12" column="87" />
+        <mark key="." line="12" column="87" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Administration/Groups/groupNew.fxml" timestamp="1544442064940">
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="18" column="55" />
+        <mark key="^" line="18" column="55" />
+        <mark key="." line="18" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/CSVPreview.java" timestamp="1539952557081">
+        <mark key="[" line="180" column="39" />
+        <mark key="]" line="180" column="39" />
+        <mark key="." line="180" column="39" />
+        <mark key="^" line="180" column="39" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1559550666639">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhozoom/epgGrabber/EPGProgram.java" timestamp="1559563484207">
+        <mark key="[" line="60" column="3" />
+        <mark key="]" line="62" column="28" />
+        <mark key="^" line="62" column="28" />
+        <mark key="." line="62" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Administration/UserServices/TabUserServices.fxml" timestamp="1529402796932">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="37" />
+        <mark key="^" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/chordhelper/src/main/java/com/illposed/osc/OSCBundle.java" timestamp="1555065642009">
+        <mark key="[" line="150" column="36" />
+        <mark key="]" line="150" column="36" />
+        <mark key="^" line="150" column="36" />
+        <mark key="." line="150" column="36" />
+      </file>
+      <file name="/mnt/backup/zoom/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Printing/PrintRacun.java" timestamp="1546595176176">
+        <mark key="[" line="613" column="30" />
+        <mark key="]" line="615" column="52" />
+        <mark key="." line="615" column="52" />
+        <mark key="^" line="615" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Administration/Search/UsersSearch.java" timestamp="1536650173687">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="17" column="29" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="17" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/chordhelper/src/main/resources/chords" timestamp="1555410061485">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/ttsfr/src/main/resources/fxml/mainWin.fxml" timestamp="1553845650083">
+        <mark key="[" line="18" column="76" />
+        <mark key="]" line="18" column="76" />
+        <mark key="^" line="18" column="76" />
+        <mark key="." line="18" column="76" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/resources/log4j.properties" timestamp="1541417228868">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/BoxPaketEditController.java" timestamp="1536913844255">
+        <mark key="[" line="224" column="30" />
+        <mark key="]" line="224" column="29" />
+        <mark key="." line="224" column="29" />
+        <mark key="^" line="224" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/psyIPTVServer/src/com/psyhozoom/dev/psyiptvserver/Channels/Channels.java" timestamp="1549545991060">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/UgovoriController.java" timestamp="1529068381603">
+        <mark key="[" line="130" column="5" />
+        <mark key="]" line="130" column="31" />
+        <mark key="^" line="130" column="31" />
+        <mark key="." line="130" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Administration/UserServices/UserServicesDTV.java" timestamp="1529598695572">
+        <mark key="[" line="115" column="71" />
+        <mark key="]" line="115" column="85" />
+        <mark key="." line="115" column="85" />
+        <mark key="^" line="115" column="85" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/build.gradle" timestamp="1546504464184">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Administration/UserServices/UserServicesNET.fxml" timestamp="1534752094747">
+        <mark key="[" line="15" column="67" />
+        <mark key="]" line="15" column="74" />
+        <mark key="." line="15" column="74" />
+        <mark key="^" line="15" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/MesecniObracun.fxml" timestamp="1539011963266">
+        <mark key="[" line="16" column="85" />
+        <mark key="]" line="16" column="104" />
+        <mark key="^" line="16" column="104" />
+        <mark key="." line="16" column="104" />
+      </file>
+      <file name="/mnt/backup/zoom/Documents/Develop/jVirman-Client/src/main/java/com/psyhozoom/virman/Client/Controllers/MainWindowController.java" timestamp="1545836662647">
+        <mark key="[" line="465" column="53" />
+        <mark key="]" line="466" column="22" />
+        <mark key="^" line="466" column="22" />
+        <mark key="." line="466" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/SNMP/getWifiSignal.java" timestamp="1531835126071">
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="7" />
+        <mark key="^" line="34" column="7" />
+        <mark key="." line="34" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/Database/db.java" timestamp="1549549099126">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+      </file>
+      <file name="/fragment.java" timestamp="1561963083105">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/RADIUS/Radius.java" timestamp="1538737202838">
+        <mark key="[" line="695" column="37" />
+        <mark key="]" line="695" column="37" />
+        <mark key="." line="695" column="37" />
+        <mark key="^" line="695" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/psyIPTVServer/src/com/psyhozoom/dev/psyiptvserver/ServerWorker.java" timestamp="1521806231151">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/Commands.java" timestamp="1550657448984">
+        <mark key="[" line="110" column="26" />
+        <mark key="]" line="111" column="22" />
+        <mark key="^" line="111" column="22" />
+        <mark key="." line="111" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/oscfootman/src/main/java/com/psyhozoom/oscfootman/Utils.java" timestamp="1557321147326">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/monthlyScheduler.java" timestamp="1548921859368">
+        <mark key="[" line="49" column="55" />
+        <mark key="]" line="49" column="66" />
+        <mark key="." line="49" column="66" />
+        <mark key="^" line="49" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/ClientMain.java" timestamp="1547736478594">
+        <mark key="[" line="55" column="83" />
+        <mark key="]" line="55" column="76" />
+        <mark key="." line="55" column="76" />
+        <mark key="^" line="55" column="76" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/Server/ServerStream.java" timestamp="1549630504054">
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="26" column="44" />
+        <mark key="^" line="26" column="44" />
+        <mark key="." line="26" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/KorisnikZaduzenjeIzmene.java" timestamp="1554881294283">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="109" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/FirmaSettings.java" timestamp="1528278989623">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="32" />
+        <mark key="^" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/ttsfr/src/main/java/com/psyhozoom/tts/SpeechToText.java" timestamp="1553761601908">
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="23" column="31" />
+        <mark key="^" line="23" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/chordhelper/src/main/java/com/psyhozoom/chordhelper/Classes/Scales.java" timestamp="1555751473033">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="26" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/NAS/NASOnlineUsers.java" timestamp="1532688539397">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="4" />
+        <mark key="^" line="19" column="4" />
+        <mark key="." line="19" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/Database/DataBase.java" timestamp="1549549858362">
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="44" />
+        <mark key="." line="29" column="44" />
+        <mark key="^" line="29" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/KorisnikUslugeUnapred.fxml" timestamp="1538642154142">
+        <mark key="[" line="16" column="80" />
+        <mark key="]" line="16" column="88" />
+        <mark key="^" line="16" column="88" />
+        <mark key="." line="16" column="88" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/psyIPTVServer/build.gradle" timestamp="1549547109091">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/MagacinEdit.fxml" timestamp="1547640275432">
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="2" />
+        <mark key="." line="14" column="2" />
+        <mark key="^" line="37" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/ttsfr/src/main/java/com/psyhozoom/tts/Controllers/MainWinController.java" timestamp="1553847836652">
+        <mark key="[" line="52" column="1" />
+        <mark key="]" line="52" column="1" />
+        <mark key="." line="52" column="1" />
+        <mark key="^" line="53" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/MesecniObracun.java" timestamp="1539013799455">
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="28" column="52" />
+        <mark key="." line="28" column="52" />
+        <mark key="^" line="28" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/oscfootman/src/main/java/com/psyhozoom/oscfootman/Main.java" timestamp="1557395041730">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="2" />
+        <mark key="." line="12" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/xlsDiff/src/main/java/com/psyhozoom/xlsDiff/users.java" timestamp="1551457488930">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/jersey/JerseyApi.java" timestamp="1549628045093">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="14" />
+        <mark key="^" line="24" column="14" />
+        <mark key="." line="24" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/digitalniTVPaket.java" timestamp="1536913787589">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/VOIPRacuni/src/main/java/net/yuvideo/voipRacuni/Controllers/ExcelExportController.java" timestamp="1547129009340">
+        <mark key="[" line="39" column="49" />
+        <mark key="]" line="39" column="47" />
+        <mark key="." line="39" column="47" />
+        <mark key="^" line="39" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/java/com/psyhozoom/dev/czar.server/Stream/StreamReader.java" timestamp="1549890865334">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="43" />
+        <mark key="^" line="0" column="43" />
+        <mark key="." line="0" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/chordhelper/src/main/java/com/psyhozoom/chordhelper/Classes/OscJava.java" timestamp="1557745369476">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/chordhelper/src/main/java/com/psyhozoom/chordhelper/Controllers/MainWin.java" timestamp="1555064389977">
+        <mark key="[" line="35" column="7" />
+        <mark key="]" line="33" column="22" />
+        <mark key="." line="33" column="22" />
+        <mark key="^" line="33" column="22" />
+      </file>
+      <file name="/mnt/backup/zoom/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Printing/PrintFaktura.java" timestamp="1546515608079">
+        <mark key="[" line="799" column="52" />
+        <mark key="]" line="799" column="52" />
+        <mark key="^" line="799" column="52" />
+        <mark key="." line="799" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/MIKROTIK_API/PPPoEInterfaces.java" timestamp="1532357944373">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/epgconverter/src/main/java/com/psyhozoom/epgconverter/Main.java" timestamp="1561028357547">
+        <mark key="[" line="4" column="57" />
+        <mark key="]" line="4" column="57" />
+        <mark key="." line="4" column="57" />
+        <mark key="^" line="4" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/Server/ServerClient.java" timestamp="1549559753176">
+        <mark key="[" line="34" column="31" />
+        <mark key="]" line="34" column="47" />
+        <mark key="." line="34" column="47" />
+        <mark key="^" line="34" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/MISC/mysqlMIsc.java" timestamp="1547470497765">
+        <mark key="[" line="47" column="10" />
+        <mark key="]" line="47" column="10" />
+        <mark key="^" line="47" column="10" />
+        <mark key="." line="47" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ServerServices/SchedullerTask.java" timestamp="1547673729314">
+        <mark key="[" line="126" column="20" />
+        <mark key="]" line="126" column="18" />
+        <mark key="." line="126" column="18" />
+        <mark key="^" line="126" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/MESSAGES/Messages.java" timestamp="1535536976017">
+        <mark key="[" line="42" column="90" />
+        <mark key="]" line="42" column="89" />
+        <mark key="^" line="42" column="89" />
+        <mark key="." line="42" column="89" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/psyIPTVServer/src/com/psyhozoom/dev/psyiptvserver/stream/Stream.java" timestamp="1521906020306">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="65" column="4" />
+        <mark key="^" line="65" column="4" />
+        <mark key="." line="65" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/KorisnikStampaPodaci.java" timestamp="1556096113921">
+        <mark key="[" line="162" column="34" />
+        <mark key="]" line="162" column="33" />
+        <mark key="." line="162" column="33" />
+        <mark key="^" line="162" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/EPG_GRABBER/build.gradle" timestamp="1559208757911">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Administration/Radius/TrafficReport.java" timestamp="1536568147125">
+        <mark key="[" line="47" column="37" />
+        <mark key="]" line="49" column="32" />
+        <mark key="." line="49" column="32" />
+        <mark key="^" line="49" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/sample/Main.java" timestamp="1551390154948">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/chordhelper/src/main/java/com/psyhozoom/chordhelper/Classes/Chords.java" timestamp="1555414826683">
+        <mark key="[" line="102" column="53" />
+        <mark key="]" line="111" column="16" />
+        <mark key="^" line="111" column="16" />
+        <mark key="." line="111" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/epgconverter/src/main/java/com/psyhozoom/epgconverter/epgConverter.java" timestamp="1561028316094">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/pom.xml" timestamp="1522668972209">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/MagacinPreviewController.java" timestamp="1529134858439">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="77" column="72" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/chordhelper/src/main/java/com/psyhozoom/chordhelper/Classes/Keys.java" timestamp="1555750482686">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="12" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Administration/UserServices/UserServicesNET.java" timestamp="1539040147529">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="303" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/chordhelper/src/main/resources/fxml/ScalesWin.fxml" timestamp="1555750693945">
+        <mark key="[" line="347" column="49" />
+        <mark key="]" line="347" column="48" />
+        <mark key="^" line="347" column="48" />
+        <mark key="." line="347" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhoozoom/epgGrabber/Main.java" timestamp="1551693529738">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+        <mark key="^" line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/SchedullerTask.java" timestamp="1523614216592">
+        <mark key="[" line="121" column="21" />
+        <mark key="]" line="121" column="22" />
+        <mark key="." line="121" column="22" />
+        <mark key="^" line="121" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Administration/TrafficReport/MtBwMonitor.java" timestamp="1534930500477">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="58" column="81" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Artikli.java" timestamp="1533124315709">
+        <mark key="[" line="120" column="32" />
+        <mark key="]" line="120" column="56" />
+        <mark key="^" line="120" column="56" />
+        <mark key="." line="120" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/java/com/psyhozoom/dev/czar.server/Server/ServerWorker.java" timestamp="1549883527431">
+        <mark key="[" line="73" column="62" />
+        <mark key="]" line="73" column="59" />
+        <mark key="." line="73" column="59" />
+        <mark key="^" line="73" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/WiFi/WiFiData.java" timestamp="1534160175444">
+        <mark key="[" line="41" column="7" />
+        <mark key="]" line="35" column="51" />
+        <mark key="^" line="35" column="51" />
+        <mark key="." line="35" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ServerServices/WiFiTracker.java" timestamp="1541412835559">
+        <mark key="[" line="26" column="44" />
+        <mark key="]" line="26" column="41" />
+        <mark key="." line="26" column="41" />
+        <mark key="^" line="26" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/java/com/psyhozoom/dev/czar.server/jersey/ObjectMapperFactory.java" timestamp="1549643718464">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="15" column="4" />
+        <mark key="^" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/chordhelper/src/main/java/com/psyhozoom/chordhelper/Main.java" timestamp="1555673067762">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="92" />
+        <mark key="." line="21" column="92" />
+        <mark key="^" line="21" column="92" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Mesta.fxml" timestamp="1525949981628">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
+        <mark key="^" line="163" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/BytesTo_KB_MB_GB_TB.java" timestamp="1535024701323">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+        <mark key="^" line="6" column="99" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/FakturePrikazController.java" timestamp="1529068078228">
+        <mark key="[" line="53" column="43" />
+        <mark key="]" line="53" column="71" />
+        <mark key="." line="53" column="71" />
+        <mark key="^" line="53" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/FiksnaTelefonijaPaket.java" timestamp="1529068123634">
+        <mark key="[" line="166" column="36" />
+        <mark key="]" line="166" column="66" />
+        <mark key="^" line="166" column="66" />
+        <mark key="." line="166" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/OstaleUslugeController.java" timestamp="1529068444706">
+        <mark key="[" line="150" column="46" />
+        <mark key="]" line="150" column="72" />
+        <mark key="^" line="150" column="72" />
+        <mark key="." line="150" column="72" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/psyIPTVServer/src/com/psyhozoom/dev/psyiptvserver/server/Server.java" timestamp="1521829584311">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/BoxPaketEdit.fxml" timestamp="1525947064176">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="51" column="67" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhozoom/epgGrabber/HTTPWebConn.java" timestamp="1559211021851">
+        <mark key="[" line="24" column="54" />
+        <mark key="]" line="30" column="23" />
+        <mark key="." line="30" column="23" />
+        <mark key="^" line="30" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/pom.xml" timestamp="1522670437377">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="9" column="42" />
+        <mark key="." line="9" column="42" />
+        <mark key="^" line="9" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/stt/src/main/java/com/psyhozoom/stt/Controllers/MainWin.java" timestamp="1554989240264">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="23" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Administration/UserServices/UserServicesIPTV.java" timestamp="1530607335253">
+        <mark key="[" line="166" column="38" />
+        <mark key="]" line="169" column="45" />
+        <mark key="." line="169" column="45" />
+        <mark key="^" line="169" column="45" />
+      </file>
+      <file name="/mnt/backup/zoom/Documents/Develop/jVirman-Client/src/main/java/com/psyhozoom/virman/Client/Classes/Stampa.java" timestamp="1547924876146">
+        <mark key="[" line="89" column="43" />
+        <mark key="]" line="89" column="46" />
+        <mark key="^" line="89" column="46" />
+        <mark key="." line="89" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/ArtikliNov.fxml" timestamp="1525945168939">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="64" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/epgconverter/mtsHBO2HD.xml" timestamp="1561030603452">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/LOCATION/LocationUpdateClients.java" timestamp="1527510506856">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerClient.java" timestamp="1560510596446">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="39" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/css/cssStyleProperty.java" timestamp="1526038204737">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="134" />
+        <mark key="^" line="5" column="134" />
+        <mark key="." line="5" column="134" />
+      </file>
+      <file name="/mnt/backup/zoom/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/StampaRacuna.java" timestamp="1546510446215">
+        <mark key="[" line="211" column="29" />
+        <mark key="]" line="211" column="28" />
+        <mark key="." line="211" column="28" />
+        <mark key="^" line="211" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/IPTVPaketi.fxml" timestamp="1528109724532">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="20" />
+        <mark key="." line="21" column="20" />
+        <mark key="^" line="21" column="112" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/IPTV/IPTVFunctions.java" timestamp="1538737369948">
+        <mark key="[" line="32" column="54" />
+        <mark key="]" line="32" column="67" />
+        <mark key="^" line="32" column="67" />
+        <mark key="." line="32" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/stt/src/main/java/com/psyhozoom/stt/Classes/SpeechTranslator.java" timestamp="1554985981383">
+        <mark key="[" line="41" column="10" />
+        <mark key="]" line="39" column="77" />
+        <mark key="." line="39" column="77" />
+        <mark key="^" line="39" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/chordhelper/src/main/java/com/illposed/osc/OSCMessage.java" timestamp="1555065656867">
+        <mark key="[" line="112" column="20" />
+        <mark key="]" line="114" column="23" />
+        <mark key="^" line="114" column="23" />
+        <mark key="." line="114" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Fakture.fxml" timestamp="1525947399892">
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
+        <mark key="^" line="200" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Izvestaji/Izvestaj.java" timestamp="1551267872081">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/.gitignore" timestamp="1526715687624">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/db_connection.java" timestamp="1529066926460">
+        <mark key="[" line="93" column="29" />
+        <mark key="]" line="93" column="29" />
+        <mark key="." line="93" column="29" />
+        <mark key="^" line="93" column="29" />
+      </file>
+      <file name="/mnt/backup/zoom/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/EditKorisnikController.java" timestamp="1546512345133">
+        <mark key="[" line="76" column="47" />
+        <mark key="]" line="76" column="65" />
+        <mark key="." line="76" column="65" />
+        <mark key="^" line="76" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Zaduzenja.java" timestamp="1540469981387">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="32" column="7" />
+        <mark key="." line="32" column="7" />
+        <mark key="^" line="32" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Administration/UserServices/UserServicesViewController.java" timestamp="1530532504909">
+        <mark key="[" line="102" column="58" />
+        <mark key="]" line="103" column="38" />
+        <mark key="." line="103" column="38" />
+        <mark key="^" line="103" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/stt/src/main/java/com/psyhozoom/stt/Main.java" timestamp="1554968111520">
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Izvestaji/Izvestaj.java" timestamp="1551274011506">
+        <mark key="[" line="54" column="3" />
+        <mark key="]" line="56" column="27" />
+        <mark key="^" line="56" column="27" />
+        <mark key="." line="56" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Options.fxml" timestamp="1530170512064">
+        <mark key="[" line="208" column="70" />
+        <mark key="]" line="208" column="67" />
+        <mark key="^" line="208" column="67" />
+        <mark key="." line="208" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Ugovori.fxml" timestamp="1526989225717">
+        <mark key="[" line="47" column="65" />
+        <mark key="]" line="47" column="65" />
+        <mark key="." line="47" column="65" />
+        <mark key="^" line="47" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/OstaleUslugeEditController.java" timestamp="1526979751071">
+        <mark key="[" line="43" column="31" />
+        <mark key="]" line="44" column="3" />
+        <mark key="^" line="44" column="3" />
+        <mark key="." line="44" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/chordhelper/src/main/java/com/illposed/osc/LibraryInfo.java" timestamp="1555674072562">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/xlsDiff/src/main/java/com/psyhozoom/xlsDiff/CampareFiles.java" timestamp="1551453164121">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/build.gradle" timestamp="1560153919015">
+        <mark key="[" line="38" column="64" />
+        <mark key="]" line="38" column="62" />
+        <mark key="^" line="38" column="62" />
+        <mark key="." line="38" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Administration/UserServices/UserServicesDTV.fxml" timestamp="1529568178618">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="20" />
+        <mark key="^" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/StampaRacuna.java" timestamp="1550495609924">
+        <mark key="[" line="226" column="9" />
+        <mark key="]" line="227" column="35" />
+        <mark key="^" line="227" column="35" />
+        <mark key="." line="227" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/chordhelper/src/main/java/com/psyhozoom/chordhelper/Classes/ChordsProg.java" timestamp="1555419018226">
+        <mark key="[" line="38" column="29" />
+        <mark key="]" line="38" column="12" />
+        <mark key="." line="38" column="12" />
+        <mark key="^" line="38" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/SERVICES/ServiceData.java" timestamp="1555327106601">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="63" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Printing/PrintablePrint.java" timestamp="1548337194553">
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="29" column="2" />
+        <mark key="." line="29" column="2" />
+        <mark key="^" line="29" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/USERS/UsersOnline.java" timestamp="1528721205092">
+        <mark key="[" line="15" column="41" />
+        <mark key="]" line="17" column="18" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/DTV/DTVEditController.java" timestamp="1550001950978">
+        <mark key="[" line="164" column="22" />
+        <mark key="]" line="165" column="71" />
+        <mark key="." line="165" column="71" />
+        <mark key="^" line="165" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jVirman-Client/src/main/java/com/psyhozoom/virman/Client/Controllers/MainWindowController.java" timestamp="1555929410471">
+        <mark key="[" line="148" column="7" />
+        <mark key="]" line="153" column="66" />
+        <mark key="^" line="153" column="66" />
+        <mark key="." line="153" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/CenaFormater.java" timestamp="1519646852767">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="36" />
+        <mark key="." line="18" column="36" />
+        <mark key="^" line="18" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/java/com/psyhozoom/dev/czar.server/Server/ServerStream.java" timestamp="1549890942129">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Channels/Channels.java" timestamp="1559563690569">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/MonthFromNumber.java" timestamp="1547731114875">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="16" />
+        <mark key="^" line="49" column="16" />
+        <mark key="." line="49" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Administration/Search/UserSerach.java" timestamp="1529324102685">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="15" column="30" />
+        <mark key="^" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" timestamp="1561707671496">
+        <mark key="[" line="295" column="0" />
+        <mark key="]" line="298" column="39" />
+        <mark key="^" line="298" column="39" />
+        <mark key="." line="298" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/FilteriSearch.java" timestamp="1529054843064">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="67" column="60" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Stream/StreamType.java" timestamp="1550657552634">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
+      <file name="/mnt/backup/zoom/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/KorisniciController.java" timestamp="1546512200204">
+        <mark key="[" line="267" column="1" />
+        <mark key="]" line="267" column="2" />
+        <mark key="." line="267" column="2" />
+        <mark key="^" line="267" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/MainWindow.fxml" timestamp="1555486437756">
+        <mark key="[" line="34" column="14" />
+        <mark key="]" line="34" column="56" />
+        <mark key="." line="34" column="56" />
+        <mark key="^" line="34" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/oscfootman/build.gradle" timestamp="1557395055281">
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="33" />
+        <mark key="." line="27" column="33" />
+        <mark key="^" line="27" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/proguard.conf" timestamp="1525781054869">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="51" />
+        <mark key="^" line="11" column="51" />
+        <mark key="." line="11" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/FaktureFunct.java" timestamp="1527682441878">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="89" column="40" />
+        <mark key="." line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Administration/TrafficReport/MtBwMonitor.fxml" timestamp="1534766199910">
+        <mark key="[" line="17" column="66" />
+        <mark key="]" line="17" column="37" />
+        <mark key="^" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/resources/META-INF/MANIFEST.MF" timestamp="1523366650887">
+        <mark key="[" line="1" column="47" />
+        <mark key="]" line="1" column="46" />
+        <mark key="." line="1" column="46" />
+        <mark key="^" line="1" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/IPTVPaketiEditController.java" timestamp="1529054873527">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="^" line="53" column="59" />
+        <mark key="." line="127" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/CenaFormatter.java" timestamp="1519646994892">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/java/com/psyhozoom/dev/czar.server/jersey/ApiServerService.java" timestamp="1549643787079">
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="28" column="29" />
+        <mark key="." line="28" column="29" />
+        <mark key="^" line="28" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/DTV/DTVPaketData.java" timestamp="1537519340826">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/Server/Worker.java" timestamp="1549620924740">
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="20" column="39" />
+        <mark key="^" line="20" column="39" />
+        <mark key="." line="20" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Zaduzenja/MesecnaZaduzenja.java" timestamp="1540472697044">
+        <mark key="[" line="58" column="15" />
+        <mark key="]" line="58" column="11" />
+        <mark key="." line="58" column="11" />
+        <mark key="^" line="58" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jVirman-Client/src/main/java/com/psyhozoom/virman/Client/Controllers/PrenosController.java" timestamp="1555929562386">
+        <mark key="[" line="306" column="61" />
+        <mark key="]" line="306" column="31" />
+        <mark key="." line="306" column="31" />
+        <mark key="^" line="306" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/stt/src/main/resources/fxml/MainWin.fxml" timestamp="1554987323496">
+        <mark key="[" line="13" column="91" />
+        <mark key="]" line="13" column="94" />
+        <mark key="." line="13" column="94" />
+        <mark key="^" line="13" column="94" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Administration/DTV/CAS.java" timestamp="1536838736485">
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="34" />
+        <mark key="." line="24" column="34" />
+        <mark key="^" line="24" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/java/com/psyhozoom/dev/czar.server/Channels/Channels.java" timestamp="1549885203814">
+        <mark key="[" line="59" column="3" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/NovKorisnikController.java" timestamp="1548161056604">
+        <mark key="[" line="197" column="17" />
+        <mark key="]" line="197" column="21" />
+        <mark key="." line="197" column="21" />
+        <mark key="^" line="197" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/README.md" timestamp="1519481482958">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/xlsDiff/src/main/java/Main.java" timestamp="1551452738417">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/DigitalnaTVPaket.fxml" timestamp="1547640237785">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="36" />
+        <mark key="^" line="41" column="47" />
+        <mark key="." line="12" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/KorisnikUslugeEditController.java" timestamp="1529578701253">
+        <mark key="[" line="74" column="46" />
+        <mark key="]" line="74" column="45" />
+        <mark key="^" line="74" column="45" />
+        <mark key="." line="74" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/java/com/psyhozoom/dev/czar.server/Stream/Streams.java" timestamp="1549890874527">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/META-INF/MANIFEST.MF" timestamp="1523538371842">
+        <mark key="[" line="1" column="47" />
+        <mark key="]" line="1" column="47" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="1" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/IPTVPaketEdit.fxml" timestamp="1525947709096">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="53" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhoozoom/epgGrabber/Controller.java" timestamp="1551437264944">
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="46" column="7" />
+        <mark key="." line="46" column="7" />
+        <mark key="^" line="46" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Administration/Search/UserRadiusSerach.java" timestamp="1529138097806">
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="19" column="39" />
+        <mark key="^" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/NewInterface.java" timestamp="1547809415876">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+        <mark key="^" line="151" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/LoginWin.fxml" timestamp="1547736429266">
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="25" column="36" />
+        <mark key="^" line="25" column="34" />
+        <mark key="." line="25" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/InternetPaketEditController.java" timestamp="1528537028826">
+        <mark key="[" line="57" column="59" />
+        <mark key="]" line="58" column="42" />
+        <mark key="^" line="58" column="42" />
+        <mark key="." line="58" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/MagaciniPreview.fxml" timestamp="1525949726994">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/ttsfr/src/main/java/com/psyhozoom/tts/Recorder.java" timestamp="1553847786867">
+        <mark key="[" line="88" column="21" />
+        <mark key="]" line="90" column="20" />
+        <mark key="." line="90" column="20" />
+        <mark key="^" line="90" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/Oprema.fxml" timestamp="1525950146903">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="48" column="61" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Database/DataBase.java" timestamp="1560761025980">
+        <mark key="[" line="10" column="130" />
+        <mark key="]" line="10" column="131" />
+        <mark key="^" line="10" column="131" />
+        <mark key="." line="10" column="131" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/KorisnikUgovorEditController.java" timestamp="1547632600614">
+        <mark key="[" line="51" column="48" />
+        <mark key="]" line="52" column="100" />
+        <mark key="^" line="52" column="100" />
+        <mark key="." line="52" column="100" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/MainWindowController.java" timestamp="1555486502528">
+        <mark key="[" line="551" column="59" />
+        <mark key="]" line="546" column="12" />
+        <mark key="^" line="546" column="12" />
+        <mark key="." line="546" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/VOIPRacuni/src/net/yuvideo/voipRacuni/Controllers/ExcelExportController.java" timestamp="1547031044097">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/ArtikliZaduzivanjeMagUser.fxml" timestamp="1525946879382">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="66" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/DTV/DTVFunctions.java" timestamp="1554816588525">
+        <mark key="[" line="299" column="70" />
+        <mark key="]" line="300" column="9" />
+        <mark key="^" line="300" column="9" />
+        <mark key="." line="300" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/psyIPTVServer/src/com/psyhozoom/dev/psyiptvserver/server/ServerWorker.java" timestamp="1549459647599">
+        <mark key="[" line="84" column="118" />
+        <mark key="]" line="85" column="79" />
+        <mark key="^" line="85" column="79" />
+        <mark key="." line="85" column="79" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1559211496910">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/chordhelper/src/test/resources/chords" timestamp="1555408669010">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/DigitalniTVPaketController.java" timestamp="1537188700687">
+        <mark key="[" line="66" column="22" />
+        <mark key="]" line="67" column="24" />
+        <mark key="^" line="67" column="24" />
+        <mark key="." line="67" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/stt/src/main/java/com/psyhozoom/stt/Classes/GooGleSpeech.java" timestamp="1554986096095">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/INTERNET/NETFunctions.java" timestamp="1538735079743">
+        <mark key="[" line="226" column="28" />
+        <mark key="]" line="227" column="14" />
+        <mark key="." line="227" column="14" />
+        <mark key="^" line="227" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/VOIPRacuni/src/main/java/net/yuvideo/voipRacuni/Controllers/stampaRacuna.java" timestamp="1547034307898">
+        <mark key="[" line="183" column="11" />
+        <mark key="]" line="183" column="9" />
+        <mark key="^" line="183" column="9" />
+        <mark key="." line="183" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/InternetPaketEdit.fxml" timestamp="1525947691621">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="69" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/psyIPTVServer/src/com/psyhozoom/dev/psyiptvserver/Users/Users.java" timestamp="1549546687215">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+        <mark key="^" line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Develop/CZARServer/src/com/psyhozoom/dev/czar.server/Users/Users.java" timestamp="1549548105719">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="43" />
+        <mark key="^" line="0" column="43" />
+        <mark key="." line="0" column="43" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="1219" column="30" filename="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ClientWorker.java" />
+      <jump line="62" column="16" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Printing/PrintRacun.java" />
+      <jump line="101" column="28" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Printing/PrintRacun.java" />
+      <jump line="50" column="35" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Printing/PrintRacun.java" />
+      <jump line="55" column="31" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Printing/PrintRacun.java" />
+      <jump line="561" column="40" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Printing/PrintRacun.java" />
+      <jump line="59" column="16" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Printing/PrintRacun.java" />
+      <jump line="389" column="0" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Printing/PrintRacun.java" />
+      <jump line="391" column="72" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Printing/PrintRacun.java" />
+      <jump line="58" column="16" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Printing/PrintRacun.java" />
+      <jump line="392" column="26" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/classes/Printing/PrintRacun.java" />
+      <jump line="80" column="13" filename="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ClientWorker.java" />
+      <jump line="639" column="36" filename="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ClientWorker.java" />
+      <jump line="1378" column="42" filename="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ClientWorker.java" />
+      <jump line="36" column="41" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="119" column="8" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="106" column="0" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Channels/Channels.java" />
+      <jump line="48" column="57" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="259" column="24" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="260" column="30" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="75" column="32" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="188" column="21" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="229" column="6" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="26" column="23" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="187" column="10" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="179" column="19" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="189" column="10" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="190" column="10" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="231" column="6" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="38" column="25" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="64" column="6" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="141" column="8" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="142" column="8" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="143" column="8" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="1584" column="12" filename="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ClientWorker.java" />
+      <jump line="102" column="49" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Izvestaji/Izvestaji.java" />
+      <jump line="117" column="19" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/KorisnikUplateController.java" />
+      <jump line="139" column="10" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/KorisnikUplateController.java" />
+      <jump line="127" column="119" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/Izvestaji/Izvestaji.java" />
+      <jump line="61" column="61" filename="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/sample/Controller.java" />
+      <jump line="64" column="74" filename="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/sample/Controller.java" />
+      <jump line="56" column="47" filename="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhoozoom/epgGrabber/EPGGrabber.java" />
+      <jump line="44" column="23" filename="$USER_HOME$/Documents/Develop/xlsDiff/src/main/java/com/psyhozoom/xlsDiff/CompareFiles.java" />
+      <jump line="82" column="8" filename="$USER_HOME$/Documents/Develop/xlsDiff/src/main/java/com/psyhozoom/xlsDiff/CompareFiles.java" />
+      <jump line="85" column="8" filename="$USER_HOME$/Documents/Develop/xlsDiff/src/main/java/com/psyhozoom/xlsDiff/CompareFiles.java" />
+      <jump line="109" column="6" filename="$USER_HOME$/Documents/Develop/xlsDiff/src/main/java/com/psyhozoom/xlsDiff/CompareFiles.java" />
+      <jump line="102" column="4" filename="$USER_HOME$/Documents/Develop/xlsDiff/src/main/java/com/psyhozoom/xlsDiff/CompareFiles.java" />
+      <jump line="143" column="47" filename="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhoozoom/epgGrabber/EPGGrabber.java" />
+      <jump line="78" column="26" filename="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhoozoom/epgGrabber/EPGGrabber.java" />
+      <jump line="171" column="146" filename="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhoozoom/epgGrabber/EPGGrabber.java" />
+      <jump line="251" column="120" filename="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhozoom/epgGrabber/EPGGrabber.java" />
+      <jump line="26" column="37" filename="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/database.java" />
+      <jump line="182" column="0" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="168" column="27" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/ServerStream.java" />
+      <jump line="61" column="22" filename="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ClientWorker.java" />
+      <jump line="3385" column="21" filename="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ClientWorker.java" />
+      <jump line="170" column="18" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/ArtikliZaduzivanje.fxml" />
+      <jump line="3561" column="22" filename="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ClientWorker.java" />
+      <jump line="205" column="40" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/ArtikliZaduzivanjeController.java" />
+      <jump line="206" column="26" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/ArtikliZaduzivanjeController.java" />
+      <jump line="3501" column="58" filename="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ClientWorker.java" />
+      <jump line="150" column="57" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/ArtikliZaduzivanje.fxml" />
+      <jump line="3486" column="17" filename="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ClientWorker.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/Develop/ttsfr/build.gradle" />
+      <jump line="11" column="31" filename="$USER_HOME$/Documents/Develop/ttsfr/build.gradle" />
+      <jump line="68" column="4" filename="$USER_HOME$/Documents/Develop/ttsfr/src/main/java/com/psyhozoom/tts/Controllers/MainWinController.java" />
+      <jump line="3626" column="0" filename="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ClientWorker.java" />
+      <jump line="105" column="10" filename="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhozoom/epgGrabber/EPGGrabber.java" />
+      <jump line="4097" column="25" filename="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ClientWorker.java" />
+      <jump line="844" column="14" filename="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/SERVICES/ServicesFunctions.java" />
+      <jump line="31" column="27" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/resources/fxml/KorisnikUplate.fxml" />
+      <jump line="236" column="39" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/ZaduzenjaController.java" />
+      <jump line="73" column="30" filename="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ClientWorker.java" />
+      <jump line="69" column="38" filename="$USER_HOME$/Documents/Develop/stt/build.gradle" />
+      <jump line="50" column="33" filename="$USER_HOME$/Documents/Develop/stt/src/main/java/com/psyhozoom/stt/Classes/SpeechTranslator.java" />
+      <jump line="143" column="27" filename="$USER_HOME$/Documents/Develop/stt/src/main/java/com/psyhozoom/stt/Classes/AudioCaptureAndSaveIntoFile.java" />
+      <jump line="50" column="25" filename="$USER_HOME$/Documents/Develop/stt/src/main/java/com/psyhozoom/stt/Classes/AudioCaptureAndSaveIntoFile.java" />
+      <jump line="80" column="25" filename="$USER_HOME$/Documents/Develop/stt/src/main/java/com/psyhozoom/stt/Classes/AudioCaptureAndSaveIntoFile.java" />
+      <jump line="117" column="27" filename="$USER_HOME$/Documents/Develop/stt/src/main/java/com/psyhozoom/stt/Classes/AudioCaptureAndSaveIntoFile.java" />
+      <jump line="12" column="24" filename="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhozoom/epgGrabber/Main.java" />
+      <jump line="63" column="17" filename="$USER_HOME$/Documents/Develop/stt/src/main/java/com/psyhozoom/stt/Classes/SpeechTranslator.java" />
+      <jump line="48" column="49" filename="$USER_HOME$/Documents/Develop/stt/build.gradle" />
+      <jump line="63" column="8" filename="$USER_HOME$/Documents/Develop/stt/build.gradle" />
+      <jump line="67" column="2" filename="$USER_HOME$/Documents/Develop/chordhelper/src/main/java/com/psyhozoom/chordhelper/Controllers/ScalesWin.java" />
+      <jump line="190" column="29" filename="$USER_HOME$/Documents/Develop/jGemstone-Server/src/main/java/net/yuvideo/jgemstone/server/classes/ClientWorker.java" />
+      <jump line="30" column="63" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/KorisnikStampaPodaci.java" />
+      <jump line="90" column="47" filename="$USER_HOME$/Documents/Develop/jGemstone-Client/src/main/java/net/yuvideo/jgemstone/client/Controllers/KorisnikStampaPodaci.java" />
+      <jump line="13" column="40" filename="$USER_HOME$/Documents/Develop/Grafika8/src/grafika/Grafika.java" />
+      <jump line="132" column="23" filename="$USER_HOME$/Documents/Develop/Grafika8/src/world/World.java" />
+      <jump line="131" column="14" filename="$USER_HOME$/Documents/Develop/Grafika8/src/world/World.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/Develop/chordhelper/src/main/resources/css/Main.css" />
+      <jump line="129" column="36" filename="$USER_HOME$/Documents/Develop/oscfootman/src/main/java/com/psyhozoom/oscfootman/MainWindow.java" />
+      <jump line="180" column="18" filename="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhozoom/epgGrabber/EPGGrabber.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhozoom/epgGrabber/EPGGrabber.java" />
+      <jump line="38" column="11" filename="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhozoom/epgGrabber/EPGGrabber.java" />
+      <jump line="39" column="11" filename="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhozoom/epgGrabber/EPGGrabber.java" />
+      <jump line="60" column="13" filename="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhozoom/epgGrabber/EPGGrabber.java" />
+      <jump line="154" column="0" filename="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhozoom/epgGrabber/EPGGrabber.java" />
+      <jump line="33" column="57" filename="$USER_HOME$/Documents/Develop/EPG_GRABBER/src/com/psyhozoom/epgGrabber/EPGGrabber.java" />
+      <jump line="149" column="82" filename="$USER_HOME$/Documents/Develop/CZARServer/src/main/com/psyhozoom/dev/czar/server/Server/Worker.java" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="56" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwoXD4=</text>
+      </register>
+      <register name="o" type="4">
+        <text>osnovica</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="35" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="54" code="0" mods="0" />
+          <key char="54" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="33" code="0" mods="0" />
+          <key char="43" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="33" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="89" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="77" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="55" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="57" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="35" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="56" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="56" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="55" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PC90dj4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PC9FUEc+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PEVQRyBDcmVhdGVkT249IjIwMTktMDYtMjAgMTE6NDk6MjgiPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PEVQRyBDcmVhdGVkT249IjIwMTktMDYtMjAgMTE6NDk6MjgiPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRvY3VtZW50QnVpbGRlckZhY3Rvcnkuc2V0VmFsaWRhdGluZyh0cnVlKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRvY3VtZW50QnVpbGRlckZhY3Rvcnkuc2V0VmFsaWRhdGluZyh0cnUpOwo=</text>
+      </register>
+      <register name="w" type="4">
+        <text>/</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRvY3VtZW50QnVpbGRlckZhY3Rvcnkuc2V0VmFsaWRhdGluZyh0cnVlKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRvY3VtZW50QnVpbGRlckZhY3Rvcnkuc2V0TmFtZXNwYWNlQXdhcmUodHJ1ZSk7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDwoXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwoXD4=</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>getDTVC</entry>
+        <entry>+00</entry>
+        <entry>activa</entry>
+        <entry>stamp</entry>
+        <entry>izbrisiZaduzenje</entry>
+        <entry>zaduzenj</entry>
+        <entry>Zaduze</entry>
+        <entry>catch</entry>
+        <entry>advancedSerach</entry>
+        <entry>advancedSe</entry>
+        <entry>get_users</entry>
+        <entry>args</entry>
+        <entry>earth</entry>
+        <entry>label</entry>
+        <entry>blur</entry>
+        <entry>Duzin</entry>
+        <entry>json</entry>
+        <entry>System.out</entry>
+        <entry>trim</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>sw</entry>
+        <entry>wq</entry>
+        <entry encoding="base64">JzwsJz4idw==</entry>
+        <entry encoding="base64">JzwsJz5Mdw==</entry>
+        <entry>&quot;&quot;w</entry>
+        <entry>qw</entry>
+        <entry>ww</entry>
+        <entry>?w</entry>
+        <entry>&quot;'w</entry>
+        <entry>'w</entry>
+        <entry>e</entry>
+        <entry>;w</entry>
+        <entry>lw</entry>
+        <entry>s</entry>
+        <entry>we</entry>
+        <entry>Lw</entry>
+        <entry>W</entry>
+        <entry>&quot;w</entry>
+        <entry>w\</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
